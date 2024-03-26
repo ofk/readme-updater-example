@@ -1,4 +1,4 @@
-# readme-generator
+# readme-updater-example
 
 <!-- BEGIN LIST -->
 - [baz](root/baz/README.md)
